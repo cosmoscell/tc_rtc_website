@@ -1,3 +1,3 @@
-# reserva-tu-cita-talleres-cebrero
+# talleres cebrero, reserva tu cita
 
-Mobile web application for Talleres Cebrero, Córdoba, Spain.
+mobile web application for talleres cebrero, córdoba, córdoba, spain
